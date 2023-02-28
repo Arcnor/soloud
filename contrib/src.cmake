@@ -20,8 +20,6 @@ set (TARGET_HEADERS
 	${HEADER_PATH}/soloud_fft.h
 	${HEADER_PATH}/soloud_fftfilter.h
 	${HEADER_PATH}/soloud_file.h
-	${HEADER_PATH}/soloud_file_hack_off.h
-	${HEADER_PATH}/soloud_file_hack_on.h
 	${HEADER_PATH}/soloud_filter.h
 	${HEADER_PATH}/soloud_flangerfilter.h
 	${HEADER_PATH}/soloud_freeverbfilter.h
